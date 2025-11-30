@@ -1,5 +1,5 @@
-This simple texture pack for Voxelibre/Mineclone2 and Mineclonia revamps the textures of all beds, making them more visually appealing.
+This light texture pack improves the appearance of every bed providing a style, in Voxelibre and Mineclonia.
 
-Each bed now features enhanced colors, cleaner patterns, and subtle references to classic games, bringing a touch of personality to your bedroom builds without breaking immersion.
+Each bed showcases tones, with nods to classic games adding charm to your dreams.
 
-Whether you're decorating your survival home or designing a cozy multiplayer inn, these beds will make sleep feel just a bit more pleasing.
+Whether you're decorating your survival base, these beds make every night’s rest a bit more cozy.
